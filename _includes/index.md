@@ -23,14 +23,14 @@
 
 Are you interested in contributing to University of Utah's ACM chapter? We are always looking for partnerships please contact [us](mailto:uofuacm@gmail.com).
 
-### U of U ACM Officers
+<!--### U of U ACM Officers
 
 * President: Monte Misa
 * Vice President:
 * Treasurer:
 * Secretary:
 * Membership Chair:
-* Webmaster:
+* Webmaster: -->
 
 ### License
 
