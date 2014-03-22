@@ -28,18 +28,12 @@ Are you interested in contributing to University of Utah's ACM chapter? We are a
 
 ### U of U ACM Officers
 
-President: [Monte Misa](http://www.linkedin.com/pub/dymonte-misa/86/166/858)
-![portfolio](https://media.licdn.com/media/p/6/005/034/2f8/314aa4c.jpg "Monte Misa")<br>
-Vice President: [Brandon Merrin](http://www.linkedin.com/pub/brandon-merrin/80/894/2a1)
-![portfolio](https://media.licdn.com/media/p/7/005/026/3a3/15afe85.jpg)<br>
-Treasurer: Taylor Wilson
-<br>
-Webmaster: [Asa Junior Matelau](http://www.linkedin.com/pub/junior-matelau/62/130/772/)
-![portfolio](https://media.licdn.com/media/p/7/005/023/243/34c6bbc.jpg)<br>
-Faculty Sponsor: [Zvonimir Rakamaric](http://www.zvonimir.info/)
-![portfolio](http://www.zvonimir.info/wp-content/uploads/2012/08/zvonimir_rakamaric.jpg)
-<br>
-<br>
+* President: [Monte Misa](http://www.linkedin.com/pub/dymonte-misa/86/166/858)
+* Vice President: [Brandon Merrin](http://www.linkedin.com/pub/brandon-merrin/80/894/2a1)
+* Treasurer: Taylor Wilson
+* Webmaster: [Asa Junior Matelau](http://www.linkedin.com/pub/junior-matelau/62/130/772/)
+* Faculty Sponsor: [Zvonimir Rakamaric](http://www.zvonimir.info/)
+
 
 ### License
 [MIT License](http://chibicode.mit-license.org/)
