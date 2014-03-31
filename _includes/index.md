@@ -4,8 +4,7 @@
 [Association of Computing Machinery](http://http://www.acm.org/), the largest educational and scientific computing society, delivers resources that advance computing as a science and a profession. The goal of our chapter is to aid in the development of skills and the network to allow students to take computing further...
 
 ## Upcoming Events
-* [UgSAC Open House](https://drive.google.com/file/d/0B9zivajrrKWjTEpnQkJHQUk3eUotaEJNYTI3YUxjVnZHQUd3/edit?usp=sharing): Join UgSAC for free food and drinks as Experienced CS students share their knowledge.
-* [SWE Outreach 101](https://www.facebook.com/UOfUSwe): Want to learn more about Outreach? Come to Outreach 101 with the U of U SWE on Tuesday, at 6 pm in WEB 2230!.
+* [Urails](http://urails.herokuapp.com/): Weekly meeting (see calendar)
 * [CodePurpose](http://codepurpose.github.io/): Weekly meeting (see calendar below for meeting times).
 
 
