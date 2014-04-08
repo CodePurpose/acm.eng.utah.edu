@@ -4,7 +4,7 @@
 [Association of Computing Machinery](http://http://www.acm.org/), the largest educational and scientific computing society, delivers resources that advance computing as a science and a profession. The goal of our chapter is to aid in the development of skills and the network to allow students to take computing further...
 
 ## Upcoming Events
-* [Mock Interviews](/assets/flyer.pdf): Joint event hosted with SWE and Tau Beta Pi (click link for flyer).
+* [Mock Interviews](http://acm.eng.utah.edu/assets/flyer.pdf): Joint event hosted with SWE and Tau Beta Pi (click link for flyer).
 * [Urails](http://urails.herokuapp.com/): Weekly meeting (see calendar).
 * [CodePurpose](http://codepurpose.github.io/): Weekly meeting (see calendar below for meeting times).
 
